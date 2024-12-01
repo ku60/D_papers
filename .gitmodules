@@ -1,0 +1,3 @@
+[submodule "D_papers"]
+	path = D_papers
+	url = https://github.com/ku60/paper_files.git
