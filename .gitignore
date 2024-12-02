@@ -5,8 +5,10 @@ __pycache__/
 # ディレクトリ構造変更前
 D_papers/paper_files/
 
-source_code/*
-!source_code/.gitkeep
+# source_code直下にフォルダを作ってそこで管理していた時の構成
+# -> source_code/ にpjごとにサブモジュールで追加
+# source_code/*
+# !source_code/.gitkeep
 ## 特定のプロジェクトを公開
-!source_code/project1/
-!source_code/project1/*
+# !source_code/project1/
+# !source_code/project1/*

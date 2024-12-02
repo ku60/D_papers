@@ -1,6 +1,5 @@
-[submodule "D_papers"]
-	path = D_papers
+[submodule "paper_files"]	path = paper_files
 	url = https://github.com/ku60/paper_files.git
-[submodule "paper_files"]
-	path = paper_files
-	url = https://github.com/ku60/paper_files.git
+[submodule "source_code/D_pj1"]
+	path = source_code/D_pj1
+	url = https://github.com/ku60/D_pj1.git
