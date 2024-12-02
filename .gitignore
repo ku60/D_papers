@@ -1,4 +1,12 @@
 .env
 
 __pycache__/
+
+# ディレクトリ構造変更前
 D_papers/paper_files/
+
+source_code/*
+!source_code/.gitkeep
+## 特定のプロジェクトを公開
+!source_code/project1/
+!source_code/project1/*
